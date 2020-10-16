@@ -103,7 +103,7 @@ p {
 /*Exercice 5*/
 @media screen and (max-width: 700px) {
     .skills {
-        flex-direction: column-reverse;
+        flex-direction: column-reverse !important;
     }
 }
 
