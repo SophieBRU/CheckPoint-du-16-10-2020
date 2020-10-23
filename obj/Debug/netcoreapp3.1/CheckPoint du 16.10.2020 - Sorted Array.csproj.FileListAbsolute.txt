@@ -1,0 +1,12 @@
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020 - Sorted Array\bin\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Sorted Array.exe
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020 - Sorted Array\bin\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Sorted Array.deps.json
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020 - Sorted Array\bin\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Sorted Array.runtimeconfig.json
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020 - Sorted Array\bin\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Sorted Array.runtimeconfig.dev.json
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020 - Sorted Array\bin\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Sorted Array.dll
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020 - Sorted Array\bin\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Sorted Array.pdb
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020 - Sorted Array\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Sorted Array.AssemblyInfoInputs.cache
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020 - Sorted Array\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Sorted Array.AssemblyInfo.cs
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020 - Sorted Array\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Sorted Array.csproj.CoreCompileInputs.cache
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020 - Sorted Array\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Sorted Array.dll
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020 - Sorted Array\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Sorted Array.pdb
+C:\Users\sophi\source\repos\CheckPoint du 16.10.2020 - Sorted Array\obj\Debug\netcoreapp3.1\CheckPoint du 16.10.2020 - Sorted Array.genruntimeconfig.cache

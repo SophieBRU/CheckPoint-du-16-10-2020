@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint du 16.10.2020 - Sorted Array", "CheckPoint du 16.10.2020 - Sorted Array.csproj", "{D781B5EC-7EC3-4340-955D-A6F926874A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D781B5EC-7EC3-4340-955D-A6F926874A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D781B5EC-7EC3-4340-955D-A6F926874A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D781B5EC-7EC3-4340-955D-A6F926874A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D781B5EC-7EC3-4340-955D-A6F926874A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82434361-7734-44DA-8E21-D982E20EE49A}
+	EndGlobalSection
+EndGlobal

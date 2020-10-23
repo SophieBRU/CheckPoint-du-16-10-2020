@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CheckPoint du 16.10.2020 - Sorted Array/1.0.0": {
+        "runtime": {
+          "CheckPoint du 16.10.2020 - Sorted Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckPoint du 16.10.2020 - Sorted Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
